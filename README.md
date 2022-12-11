@@ -1,4 +1,12 @@
 # T-Cubed -TWITTER SENTIMENT ANALYSIS
+Project in Data Analytics.
+
+Team members:
+Rishika Satheesh
+Minal H. R
+Sneha S
+Rajarajeshwari Murugan
+
 Twitter sentiment analysis is a way of analysing a big pile of  tweets (train.csv) and generating a  model that detects negative, non negative tweets(racist or sexist and so on) and classifies it accordingly with highest accuracy.
 
 This can be used in multiple real life situations, for example, to detect if a customer is happy or dissatisfied with a particular product, the impact of a famous celebrity on fans, to detect homophobic and racist insults or threats directed at people, and so on.
